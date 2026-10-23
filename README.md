@@ -1,4 +1,4 @@
-The published working paper can be found here:
+The published working paper can be downloaded form this repository marked as index.pdf or found here:
 https://osf.io/preprints/socarxiv/j7nc8_v2 
 
 or under Prof. Dr. Wuttke's profile here: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g_vhN6AAAAAJ&sortby=pubdate&citation_for_view=g_vhN6AAAAAJ:dshw04ExmUIC
